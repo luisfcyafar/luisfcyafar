@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @luisfcyafar
-- 👀 I’m interested in technology and healthcare
-- 🌱 I’m currently learning quantum computing
-- 💞️ I’m looking to collaborate on start-ups
-- 📫 How to reach me Luisfcyafar@sontse.eu
+- 👀 I’m interested in emerging technology
 
 <!---
 luisfcyafar/luisfcyafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
